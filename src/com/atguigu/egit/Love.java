@@ -8,6 +8,7 @@ public class Love {
 		System.out.println("su2写入给su1pull==");
 		System.out.println("su1先提交产生冲突");
 		System.out.println("su2后提交产生冲突");
+		System.out.println("分支测试");
 	}
 
 }
